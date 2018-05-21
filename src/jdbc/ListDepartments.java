@@ -1,8 +1,8 @@
 package jdbc;
 
 import javax.sql.rowset.CachedRowSet;
-
 import oracle.jdbc.rowset.OracleCachedRowSet;
+
 
 public class ListDepartments {
 
